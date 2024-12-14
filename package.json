@@ -1,4 +1,13 @@
 {
+  "name": "restaurant-menu-api",
+  "version": "1.0.0",
+  "description": "A Node.js Restaurant Menu API using JSON file storage.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Yordanos Habtamu",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.21.2"
   }
