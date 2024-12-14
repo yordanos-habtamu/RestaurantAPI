@@ -183,6 +183,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 - Author\:s Yordanos Habtamu
-- **Email**:[Email](jordrichh7@gmail.com)**
+- **Email**\*\*[Email](jordrichh7@gmail.com)**
 - **GITHUB**\*\*[GitHub](https://github.com/yordanos-habtamu)**
 
